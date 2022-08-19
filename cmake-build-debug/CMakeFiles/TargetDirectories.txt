@@ -1,0 +1,3 @@
+/home/giovani/CLionProjects/AULA 18-08-22 exercicio 1/cmake-build-debug/CMakeFiles/AULA_18_08_22_.dir
+/home/giovani/CLionProjects/AULA 18-08-22 exercicio 1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/giovani/CLionProjects/AULA 18-08-22 exercicio 1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
